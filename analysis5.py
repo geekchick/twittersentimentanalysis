@@ -4,10 +4,10 @@ import sys, tweepy
 import matplotlib.pyplot as plt
 
 # Twitter Keys - Go to Twitter and
-consumerKey = "vvQsPr1t3cXdhdztLlkr3W5Nl"
-consumerSecret = "HRbGcTW8DBqDHiWAHRNwdxnxHcVQybalRYxCcDL6zoHXBlKdWR"
-accessToken = "4020773291-dPNo5iiwEGfnWZHk7pqNUC0rtCZP1M8JRCh0oMc"
-accessTokenSecret = "0PonLR4MyEHcczv3UXwMyQMX2CG2SXaT0IgLmvnmY6R6z"
+consumerKey = "x"
+consumerSecret = "x"
+accessToken = "x"
+accessTokenSecret = "x"
 
 
 # Establish a connection to Twitter
